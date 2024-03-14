@@ -14,7 +14,7 @@ The following files are included:
 8. sd folder containing all the files from the Google Colab sessions
 9. Fast-Dreambooth folder containing all 7 sessions of running Dreambooth (named aimproject1, aimproject2, ... aimproject7)
 
-**Part 2. Files from my computer**
+**Part 2. Files from my computer (under folder AIM-project)**
 1. cindylin_aim_project_datasets.ipynb: creating the dataset and cleanup
 2. 4 folders containing session results from Dreambooth:
    1. aimproject1 results
