@@ -2,6 +2,7 @@
 Submission for AI in Media Class
 
 The following files are included:
+
 **Part 1. Google Colab Notebooks and files from the Google Colab sessions:**
 1. fast-DreamBooth v1.ipynb
 2. fast-DreamBooth v2.ipynb
