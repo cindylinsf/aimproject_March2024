@@ -4,7 +4,7 @@ Submission for AI in Media Class
 The following files are included:
 
 **Part 1. Google Colab Notebooks and files from the Google Colab sessions:**
-_At the time of submissions, GitHub Desktop had difficulty uploading all the files due to the large file sizes. The public share links of my Google Drive content are also provided below._
+_At the time of submissions, GitHub Desktop had difficulty uploading all the files due to the large file sizes. The public share links of my Google Drive content are provided below._
 1. **Colab Notebooks** folder containing all the Google Colab notebooks (Google Drive share link: https://drive.google.com/drive/folders/1IHP0ZimVL4mkAyfnIp3Dw5f_QBeyvXMl?usp=drive_link)
    1. fast-DreamBooth v1.ipynb
    2. fast-DreamBooth v2.ipynb
